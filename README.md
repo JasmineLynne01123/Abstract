@@ -1,7 +1,7 @@
 # Abstract - Responsive Help Center Clone
 
 ## 💻 Project Overview
-This project is a high-fidelity, **fully responsive** reconstruction of the Abstract Help Center landing page. It was built to demonstrate advanced proficiency in modern **HTML5** and **CSS3**, focusing specifically on creating a seamless user experience across all device types.
+This project is a high-fidelity, **fully responsive** reconstruction of the Abstract Help Center landing page. It was built to demonstrate advanced proficiency in modern **HTML5** and **CSS3**, with a focus on creating a seamless user experience across all device types.
 
 ## ✨ Key Features
 * **Mobile-First Design:** Optimized for smartphones with stacked layouts and touch-friendly elements.
@@ -15,11 +15,11 @@ This project is a high-fidelity, **fully responsive** reconstruction of the Abst
 
 ## 🚀 Live Demo
 You can view the live project instantly here:  
-**[View Live Project] (https://jasminelynne01123.github.io/Abstract/)**
+[View Live Project] (https://jasminelynne01123.github.io/Abstract/)**
 
 ---
 
 ## 📂 How to Run Locally
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
-   git clone (https://github.com/jasminelynne01123/Abstract.git)
+   git clone https://github.com/jasminelynne01123/Abstract.git
